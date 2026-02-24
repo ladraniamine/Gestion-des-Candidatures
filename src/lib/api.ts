@@ -7,7 +7,7 @@ import {
 import type { Candidature, CandidatureFilters } from "../types";
 import { computed, type ComputedRef } from "vue";
 
-const API_BASE_URL = "http://localhost:3000";
+const API_BASE_URL = "https://gestion-des-candidatures-be.onrender.com";
 
 async function getCandidatures(
   filters: CandidatureFilters = {},
