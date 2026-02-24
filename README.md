@@ -70,3 +70,7 @@ Le fichier `package.json` contient les scripts suivants pour faciliter le lancem
 - `npm run build` : Construit l'application pour la production.
 - `npm run preview` : Prévisualise l'application construite.
 - `npm run api` : Lance JSON Server avec la base de données mock.
+- 
+- ## BACKEND REPO
+
+- https://github.com/ladraniamine/Gestion-des-Candidatures-BE
